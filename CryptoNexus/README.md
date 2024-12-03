@@ -47,11 +47,3 @@ npm start
 
 Your browser will open, and you will see the landing page running on `http://localhost:3000`.
 
-
-
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a basic introduction to your project, its setup, and its features. You can customize the instructions based on your specific setup or any additional tools used. Let me know if you need further adjustments!
