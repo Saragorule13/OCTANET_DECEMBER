@@ -13,7 +13,7 @@ const Navbar = () => {
       <p className='text-white font-poppins text-2xl font-normal leading-normal'>CryptoNexus</p>
 
       {/*Navbar items */}
-      <div className="hidden sm:block text-white text-base font-normal leading-normal border sm:p-2 rounded-xl border-[#5D6EF3] bg-transparent cursor-pointer">
+      <div className="hidden lg:block text-white text-base font-normal leading-normal border sm:p-2 rounded-xl border-[#5D6EF3] bg-transparent cursor-pointer">
   <ul className="flex gap-[40px]">
     <li className="p-1 rounded-xl hover:bg-[#5D6EF3]">Smart Contracts</li>
     <li className="p-1 rounded-xl hover:bg-[#5D6EF3]">Services</li>
